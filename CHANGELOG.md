@@ -1,5 +1,12 @@
 # Changelog
 
+### [2.37.1](https://github.com/googleapis/google-api-python-client/compare/v2.37.0...v2.37.1) (2022-02-14)
+
+
+### Documentation
+
+* fix typo and unnecessary word in docstring ([#1692](https://github.com/googleapis/google-api-python-client/issues/1692)) ([a47764b](https://github.com/googleapis/google-api-python-client/commit/a47764bc0ee296365e196daa39d038035325d5ed))
+
 ## [2.37.0](https://github.com/googleapis/google-api-python-client/compare/v2.36.0...v2.37.0) (2022-02-09)
 
 
